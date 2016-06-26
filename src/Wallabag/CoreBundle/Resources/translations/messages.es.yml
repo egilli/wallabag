@@ -432,3 +432,6 @@ flashes:
         notice:
             client_created: 'Nuevo cliente creado.'
             client_deleted: 'Cliente suprimido'
+    account:
+        notice:
+            # account_deleted: 'Account deleted'
